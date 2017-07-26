@@ -745,10 +745,9 @@ minecraft:spawn_egg:24, Spawn Fallen Steed
 minecraft:spawn_egg:25, Spawn Wither Witch
 minecraft:spawn_egg:26, Spawn Wither Cat
 minecraft:spawn_egg:27, Spawn Dire Wolf
-minecraft:spawn_egg:28, Spawn Khndrel Keght
-minecraft:spawn_egg:30, Spawn Nuclear Monster
-minecraft:spawn_egg:31, Spawn Paul
-minecraft:spawn_egg:32, Spawn Brian
+minecraft:spawn_egg:29, Spawn Nuclear Monster
+minecraft:spawn_egg:30, Spawn Paul
+minecraft:spawn_egg:31, Spawn Brian
 minecraft:spawn_egg:6396, Spawn Demon
 minecraft:spawn_egg:6397, Spawn Mandrake
 minecraft:spawn_egg:6398, Spawn Treefyd
@@ -5539,7 +5538,7 @@ RedstoneArsenal:Storage:1, Flux Crystal Block
 ExtraUtilities:chestMini, Mini-Chest
 ExtraUtilities:chestFull, Slightly Larger Chest
 ExtraUtilities:enderCollector, Ender Collector
-ExtraUtilities:endConstructor:0, QED (Quantum Ender Device)
+ExtraUtilities:endConstructor:0, QED (Quod Erat Demonstrandum)
 ExtraUtilities:endConstructor:2, Ender-Flux Crystal
 ExtraUtilities:endMarker, Ender-Marker
 ExtraUtilities:curtains, Blackout Curtains
@@ -6180,40 +6179,40 @@ TConstruct:Redstone.Landmine:1, Landmine
 TConstruct:Redstone.Landmine:2, Landmine
 TConstruct:Redstone.Landmine:3, Landmine
 TConstruct:Armor.DryingRack, Drying Rack
-ThaumicTinkerer:fireAir, Aer Imbued Fire
-ThaumicTinkerer:warpGate, Celestial Gateway
-ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
-ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:dislocator, Transvector Dislocator
 ThaumicTinkerer:infusedGrainBlock, tile.infusedGrainBlock.name
+ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
+ThaumicTinkerer:warpGate, Celestial Gateway
+ThaumicTinkerer:platform, Ethereal Platform
+ThaumicTinkerer:fireWater, Aqua Imbued Fire
+ThaumicTinkerer:spawner, Tablet of Necromancy
+ThaumicTinkerer:enchanter, Osmotic Enchanter
+ThaumicTinkerer:animationTablet, Dynamism Tablet
+ThaumicTinkerer:fireChaos, Perditio Imbued Fire
+ThaumicTinkerer:fireFire, Ignis Imbued Fire
+ThaumicTinkerer:fireAir, Aer Imbued Fire
+ThaumicTinkerer:interface, Transvector Interface
+ThaumicTinkerer:golemConnector, Golem Connector
 ThaumicTinkerer:magnet:0, Kinetic Attractor
 ThaumicTinkerer:magnet:1, Corporeal Attractor
+ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
+ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
 ThaumicTinkerer:infusedFarmland, tile.infusedFarmland.name
+ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
+ThaumicTinkerer:bedrockPortal, Bedrock Portal
+ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
+ThaumicTinkerer:forcefield, Forcefield
+ThaumicTinkerer:repairer, Thaumic Restorer
+ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
+ThaumicTinkerer:Levitational Locomotive, Levitational Locomotive
+ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
+ThaumicTinkerer:fireOrder, Ordo Imbued Fire
+ThaumicTinkerer:funnel, Essentia Funnel
+ThaumicTinkerer:nitorGas, tile.nitorGas.name
 ThaumicTinkerer:darkQuartz:0, Block of Smokey Quartz
 ThaumicTinkerer:darkQuartz:1, Chiseled Smokey Quartz Block
 ThaumicTinkerer:darkQuartz:2, Pillar Smokey Quartz Block
-ThaumicTinkerer:aspectAnalyzer, Aspectalyzer
-ThaumicTinkerer:spawner, Tablet of Necromancy
-ThaumicTinkerer:bedrockPortal, Bedrock Portal
-ThaumicTinkerer:funnel, Essentia Funnel
-ThaumicTinkerer:gaseousShadow, tile.gaseousShadow.name
-ThaumicTinkerer:animationTablet, Dynamism Tablet
-ThaumicTinkerer:fireWater, Aqua Imbued Fire
-ThaumicTinkerer:darkQuartzSlab:0, Smokey Quartz Slab
-ThaumicTinkerer:darkQuartzSlabFull:0, Smokey Quartz Slab
-ThaumicTinkerer:fireFire, Ignis Imbued Fire
-ThaumicTinkerer:darkQuartzStairs, Smokey Quartz Stairs
-ThaumicTinkerer:gaseousLight, tile.gaseousLight.name
-ThaumicTinkerer:fireOrder, Ordo Imbued Fire
-ThaumicTinkerer:Levitational Locomotive Relay, Levitational Locomotive Relay
-ThaumicTinkerer:interface, Transvector Interface
-ThaumicTinkerer:nitorGas, tile.nitorGas.name
-ThaumicTinkerer:forcefield, Forcefield
-ThaumicTinkerer:dislocator, Transvector Dislocator
-ThaumicTinkerer:golemConnector, Golem Connector
-ThaumicTinkerer:fireChaos, Perditio Imbued Fire
 ThaumicTinkerer:fireEarth, Terra Imbued Fire
-ThaumicTinkerer:enchanter, Osmotic Enchanter
-ThaumicTinkerer:repairer, Thaumic Restorer
 MagicBees:magicbees.enchantedEarth, Enchanted Earth
 MagicBees:hive:0, Curious Hive
 MagicBees:hive:1, Unusual Hive
@@ -7717,11 +7716,11 @@ openmodularturrets:teleporterTurret, Teleporter Turret
 openmodularturrets:laserTurret, Laser Turret
 openmodularturrets:railGunTurret, Rail Gun Turret
 openmodularturrets:leverBlock, Basic Turret Base Crank
-OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:glassesbridge, Terminal Glasses Bridge
 OpenPeripheral:pim, PIM
 OpenPeripheral:sensor, Sensor
 OpenPeripheral:selector, Item Selector
+OpenPeripheral:peripheralproxy, Peripheral Proxy
 OpenPeripheral:ticketmachine, Ticket Machine
 PneumaticCraft:plasticBlock, tile.plasticBlock.name
 PneumaticCraft:etchingAcid, Etching Acid
@@ -11242,10 +11241,10 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Brownstone Brick
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Brownstone Road
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Fancy Brownstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Brownstone
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Smokey Quartz
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Chiseled Smokey Quartz Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Smokey Quartz Slab
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Curious Hive
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Unusual Hive
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Resonating Hive
@@ -18370,7 +18369,6 @@ EnderZoo:itemSpawnEggEnderZoo:3, Spawn Fallen Steed
 EnderZoo:itemSpawnEggEnderZoo:4, Spawn Wither Witch
 EnderZoo:itemSpawnEggEnderZoo:5, Spawn Wither Cat
 EnderZoo:itemSpawnEggEnderZoo:6, Spawn Dire Wolf
-EnderZoo:itemSpawnEggEnderZoo:7, Spawn Khndrel Keght
 EnderZoo:witheringDust, Withering Dust
 EnderZoo:confusingDust, Confusing Powder
 EnderZoo:enderFragment, Ender Fragment
@@ -25821,21 +25819,21 @@ ThermalDynamics:cover:0, Brown Stained Pane Cover
 ThermalDynamics:cover:0, Green Stained Pane Cover
 ThermalDynamics:cover:0, Red Stained Pane Cover
 ThermalDynamics:cover:0, Black Stained Pane Cover
-ThermalDynamics:cover:0, Aer Imbued Fire Cover
-ThermalDynamics:cover:0, Block of Smokey Quartz Cover
-ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
-ThermalDynamics:cover:0, Bedrock Portal Cover
-ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
 ThermalDynamics:cover:0, Aqua Imbued Fire Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
-ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Perditio Imbued Fire Cover
 ThermalDynamics:cover:0, Ignis Imbued Fire Cover
+ThermalDynamics:cover:0, Aer Imbued Fire Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, Smokey Quartz Slab Cover
+ThermalDynamics:cover:0, tile.gaseousShadow.name Cover
+ThermalDynamics:cover:0, Bedrock Portal Cover
 ThermalDynamics:cover:0, Smokey Quartz Stairs Cover
 ThermalDynamics:cover:0, tile.gaseousLight.name Cover
 ThermalDynamics:cover:0, Ordo Imbued Fire Cover
 ThermalDynamics:cover:0, tile.nitorGas.name Cover
-ThermalDynamics:cover:0, Perditio Imbued Fire Cover
+ThermalDynamics:cover:0, Block of Smokey Quartz Cover
+ThermalDynamics:cover:0, Chiseled Smokey Quartz Block Cover
+ThermalDynamics:cover:0, Pillar Smokey Quartz Block Cover
 ThermalDynamics:cover:0, Terra Imbued Fire Cover
 ThermalDynamics:cover:0, Enchanted Earth Cover
 ThermalDynamics:cover:0, Curious Hive Cover
