@@ -1,0 +1,17 @@
+{
+  "id": "Meteorite_481,66,-520",
+  "name": "Meteorite",
+  "icon": "waypoint-normal.png",
+  "x": 481,
+  "y": 66,
+  "z": -520,
+  "r": 0,
+  "g": 0,
+  "b": 0,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

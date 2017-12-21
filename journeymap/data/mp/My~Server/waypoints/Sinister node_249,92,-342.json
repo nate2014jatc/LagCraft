@@ -1,0 +1,17 @@
+{
+  "id": "Sinister node_249,92,-342",
+  "name": "Sinister node",
+  "icon": "waypoint-normal.png",
+  "x": 249,
+  "y": 92,
+  "z": -342,
+  "r": 66,
+  "g": 44,
+  "b": 120,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

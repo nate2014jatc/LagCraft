@@ -1,0 +1,17 @@
+{
+  "id": "Lance\u0027s House_385,78,-548",
+  "name": "Lance\u0027s House",
+  "icon": "waypoint-normal.png",
+  "x": 385,
+  "y": 78,
+  "z": -548,
+  "r": 36,
+  "g": 26,
+  "b": 249,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

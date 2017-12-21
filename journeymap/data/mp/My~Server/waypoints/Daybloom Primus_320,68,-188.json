@@ -1,0 +1,17 @@
+{
+  "id": "Daybloom Primus_320,68,-188",
+  "name": "Daybloom Primus",
+  "icon": "waypoint-normal.png",
+  "x": 320,
+  "y": 68,
+  "z": -188,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

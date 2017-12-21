@@ -1,0 +1,17 @@
+{
+  "id": "Magic fores_2204,64,-1330",
+  "name": "Magic fores",
+  "icon": "waypoint-normal.png",
+  "x": 2204,
+  "y": 64,
+  "z": -1330,
+  "r": 124,
+  "g": 239,
+  "b": 179,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
